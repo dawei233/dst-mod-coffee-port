@@ -1,0 +1,12 @@
+# 源码统一 LF
+* text=auto eol=lf
+
+*.lua  text eol=lf
+*.txt  text eol=lf
+*.xml  text eol=lf
+
+# 二进制资源
+*.tex  binary
+*.zip  binary
+*.png  binary
+*.jpg  binary

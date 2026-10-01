@@ -1,0 +1,6 @@
+<Atlas>
+    <Texture filename="coffeeport_minimap.tex"/>
+    <Elements>
+        <Element name="coffeebush.tex" u1="0.00781250" u2="0.99218750" v1="0.00781250" v2="0.99218750"/>
+    </Elements>
+</Atlas>

@@ -1,0 +1,23 @@
+# ---- 编辑器 / 操作系统 ----
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- 临时 / 备份 ----
+*.bak
+*.orig
+*.tmp
+_backup/
+
+# ---- Lua 编译产物 ----
+*.luac
+luac.out
+
+# ---- Python（工具脚本用）----
+__pycache__/
+*.py[cod]
+.venv/
+venv/

@@ -1,0 +1,9 @@
+<Atlas>
+    <Texture filename="coffeeport_items.tex"/>
+    <Elements>
+        <Element name="coffee.tex" u1="0.00195312" u2="0.24804688" v1="0.00781250" v2="0.99218750"/>
+        <Element name="coffeebeans.tex" u1="0.25195312" u2="0.49804688" v1="0.00781250" v2="0.99218750"/>
+        <Element name="coffeebeans_cooked.tex" u1="0.50195312" u2="0.74804688" v1="0.00781250" v2="0.99218750"/>
+        <Element name="dug_coffeeplant.tex" u1="0.75195312" u2="0.99804688" v1="0.00781250" v2="0.99218750"/>
+    </Elements>
+</Atlas>

@@ -31,6 +31,8 @@ description =
   读懂它原本的机制，做一个跟得上游戏更新、覆盖也更完整的版本。
 · 所有项目都尽量全部开源并遵循 GPL-3.0，完整源码：
   https://github.com/dawei233/dst-mod-coffee-port
+· 创意工坊页面：
+  https://steamcommunity.com/sharedfiles/filedetails/?id=3810717914
 · 【代码】依 GPL-3.0 发布；【美术素材】版权归 Klei Entertainment /
   Capybara Games，提取自《饥荒：海难》DLC，仅在非商业 mod 范围内使用。]]
 

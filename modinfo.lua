@@ -37,7 +37,7 @@ description =
   Capybara Games，提取自《饥荒：海难》DLC，仅在非商业 mod 范围内使用。]]
 
 author = "dawei233"
-version = "0.1.8"
+version = "0.1.9"
 forumthread = "https://github.com/dawei233/dst-mod-coffee-port"
 
 api_version = 10

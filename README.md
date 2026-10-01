@@ -2,7 +2,7 @@
 
 把《饥荒：海难》(Shipwrecked) 的咖啡整套搬进 **《饥荒：联机版》的地表世界**。
 
-作者：dawei233 ｜ 版本：0.1.8
+作者：dawei233 ｜ 版本：0.1.9
 源码：<https://github.com/dawei233/dst-mod-coffee-port>
 创意工坊：<https://steamcommunity.com/sharedfiles/filedetails/?id=3810717914>
 许可：**代码 GPL-3.0；美术素材版权归 Klei / Capybara**（见文末，请务必看清）
